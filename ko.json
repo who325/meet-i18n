@@ -146,7 +146,7 @@
   "buy_sell_ram": "램",
   "cancel": "취소",
   "cant_transferto_self": "자신에게 전송할 수 없습니다.",
-  "change_email_hint": "이메일 주소 변경시 이메일 인증을 재차하셔야 합니다.",
+  "change_email_hint": "이메일 주소 변경시 이메일 인증을 재차하셔야 합니다. ",
   "change_name": "사용자 이름 변경",
   "change_password": "비밀번호 변경",
   "change_pwd": "비밀번호 변경",
